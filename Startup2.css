@@ -1,0 +1,52 @@
+body{
+    padding: 25px;
+    background: url(https://images.wallpaperscraft.com/image/single/laptop_backlight_dark_164993_3840x2400.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  
+  .text-uppercase {
+      color: #FF7400;
+      font-size: 58px;
+      text-align:  center;
+      font-family: fantasy;
+      padding-top: 115px;
+  }
+  .btn{
+    border-radius: 300px;
+    text-transform: uppercase;
+    font-family: fantasy;
+  }
+  
+  .btn-light{
+    background-color: grey;
+    border-color: grey;
+    font-color: white;
+  }
+  
+  .btn-light:hover{
+    background-color: #9CA9C9;
+    border-color: #9CA9C9;
+    border-width: 4px;
+  }
+  
+  .btn-xl{
+    padding: 0.5rem 0.5rem;
+  }
+  
+  hr{
+    margin: 2px auto;
+    border-color: #9CA9C9;
+    border: 3px solid #9CA9C9;
+    max-width: 80px;
+  }
+  .buffer{
+    height: 10rem;
+    padding-top: 200px;
+  }
+
+  .buffer2{
+    padding: 30px;
+  }
